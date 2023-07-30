@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">she new</string>
+
+    //Headings
+    <string name="heading_one">Login &amp; signup page </string>
+    <string name="heading_two">Trigger Button</string>
+    <string name="heading_three">Chatting Feature</string>
+    <string name="heading_fourth">EmergencyCalling</string>
+
+    //Description
+    <string name="desc_one">Enter Username and Password Respectively !</string>
+    <string name="desc_two"> Press Danger Button When Needed  </string>
+    <string name="desc_three"> can Chat Whenever You Need</string>
+    <string name="desc_fourth">National Emergency Numbers Added Already Can Call When Needed</string>
+</resources>
